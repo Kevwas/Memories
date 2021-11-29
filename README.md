@@ -9,4 +9,4 @@ Framework in conjunction with React and Typescript and the Capacitor
 APIs for device-hardware features (Camera, Local Storage, Gallery) 
 and for building native android or ios bundles.
 
-Lide Demo: https://ionic-memories-app.netlify.app/good-memories
+Lide Demo: https://ionic-memories-app.netlify.app/

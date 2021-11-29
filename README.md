@@ -6,6 +6,7 @@ it is fully responsive and cross-platform. It has access to the
 device camera (after asking for permission) or to the gallery in
 the case that the camera access is denied. I used The Ionic 
 Framework in conjunction with React and Typescript and the Capacitor
-APIs for device-hardware features and for building native android or ios bundles.
+APIs for device-hardware features (Camera, Local Storage, Gallery) 
+and for building native android or ios bundles.
 
-Lide Demo: https://ionic-memories-app.netlify.app/new-memory
+Lide Demo: https://ionic-memories-app.netlify.app/good-memories

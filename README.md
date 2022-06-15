@@ -1,5 +1,5 @@
 # memories
-The 3rd and final App of the Academinds Ionic-React.js course
+The 3rd and final App of the Academind's Ionic-React.js course
 
 In this app, you can save good and/or bad memories of your life, 
 it is fully responsive and cross-platform. It has access to the 

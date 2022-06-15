@@ -1,4 +1,4 @@
-# memories
+# Memories
 The 3rd and final App of the Academind's Ionic-React.js course
 
 In this app, you can save good and/or bad memories of your life, 
